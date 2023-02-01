@@ -11,7 +11,8 @@ horizontal: false
 ### Maintainer
 
 Tanja Katharina Kaiser (University of Konstanz, Germany)
-tanja-katharina.kaiser@uni-konstanz.de 
+
+tanja-katharina.kaiser(at)uni-konstanz.de 
 
 
 ### Current Contributors 
