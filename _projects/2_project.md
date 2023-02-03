@@ -2,7 +2,7 @@
 layout: page
 title: Movement Pattern 
 description: swarm behaviors for robot motion
-img: assets/img/
+img: 
 importance: 2
 ---
 
