@@ -6,3 +6,12 @@ img:
 importance: 2
 ---
 
+
+ROS2swarm provides the following basic movement pattern: 
+
+* attraction
+* aggregation
+* drive
+* dispersion
+* minimalist flocking
+* random walk 
