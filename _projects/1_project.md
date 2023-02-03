@@ -2,7 +2,7 @@
 layout: page
 title: supported robot platforms 
 description: Robot platforms supported by ROS2swarm 
-img: assets/img/12.jpg
+img: assets/img/Gazebo.png
 importance: 1
 ---
 
