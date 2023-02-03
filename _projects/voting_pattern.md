@@ -7,7 +7,7 @@ importance: 3
 ---
 
 
-ROS2swarm provides the following basic voting patterns: 
+ROS2swarm includes the following basic voting patterns: 
 
 * voter model
 * majority rule 
