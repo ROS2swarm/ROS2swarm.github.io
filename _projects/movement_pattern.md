@@ -7,7 +7,7 @@ importance: 2
 ---
 
 
-ROS2swarm provides the following basic movement pattern: 
+ROS2swarm provides the following basic movement patterns: 
 
 * attraction
 * aggregation
