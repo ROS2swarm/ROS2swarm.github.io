@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Voting Pattern 
-description: swarm behaviors for collective decision-making
+title: voting patterns 
+description:  
 img: 
 importance: 3
 ---
 
+Voting patterns provide behaviors for collective decision-making.
 
 ROS2swarm includes the following basic voting patterns: 
 
